@@ -1,2 +1,2 @@
 # footbal
-footbal game is good
+football game is good
